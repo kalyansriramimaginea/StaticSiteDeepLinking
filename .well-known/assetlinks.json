@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pramati.launcher",
+    "sha256_cert_fingerprints":
+    ["D1:B9:4E:CF:43:43:05:37:C5:FB:E5:61:EA:55:C4:74:40:7E:15:18:87:AE:4C:BD:B7:BC:55:25:93:A9:41:F7"]
+  }
+}]
